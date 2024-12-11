@@ -37,7 +37,7 @@ https://medium.com/@jwei1_24619/deep-learning-image-classification-cat-vs-dog-pr
 
 ## 5. Licensing, Authors, Acknowledgements, etc.
 This project is a learning exercise in machine learning/deep learning, convolutional neural networks and image classification.
-- **Dataset Source**: Images were sourced from my teacher(https://github.com/farhadabbasiamiri).
+- **Dataset Source**: Images were sourced from my teacher Farhad Abbasi Amiri(https://github.com/farhadabbasiamiri).
 - **Author**: Jieyi Wei
 - **Acknowledgements**: Thanks to TensorFlow documentation and online tutorials for guidance.
 
