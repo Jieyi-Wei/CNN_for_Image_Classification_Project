@@ -33,7 +33,8 @@ The aim is to train a model to achieve high accuracy in distinguishing between t
 - `README.md`: This file, explaining the project structure.
 
 ## 4. Results
-The main findings of the code can be found at the post on Medium available as soons as possible.
+The main findings of the code can be found at the post on Medium available post linked below.
+https://medium.com/@jwei1_24619/deep-learning-image-classification-cat-vs-dog-prediction-using-cnn-9e7910a0b450.
 
 ## 5. Licensing, Authors, Acknowledgements, etc.
 This project is a learning exercise in machine learning/deep learning, convolutional neural networks and image classification.
