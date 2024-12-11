@@ -7,11 +7,10 @@ To run the project, you need the following libraries and frameworks installed:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- os
 
 Install them using:
 ```bash
-pip install tensorflow numpy matplotlib seaborn scikit-learn os
+pip install tensorflow numpy matplotlib seaborn scikit-learn
 ```
 
 ## 2. Project Motivation
