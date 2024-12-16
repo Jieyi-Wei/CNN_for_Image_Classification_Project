@@ -25,19 +25,19 @@ The aim is to train a model to achieve high accuracy in distinguishing between t
 - `dataset/`: Contains the images for training and testing.
   - `training_set/`: Includes subfolders for cat and dog images used for training.
   - `test_set/`: Includes subfolders for cat and dog images used for testing.
-  - `single_prediction/`: Contains a few individual images for testing the model manually.
-- `CNN for Image Classification.ipynb`: The notebook for training the CNN model.
+  - `single_prediction/`: Contains four images for testing the model manually.
+- `CNN for Image Classification.ipynb`: The notebook for training the CNN model and making single predictions.
 - `CNN Model Evaluation.ipynb`: A notebook to evaluate the trained model on the test set.
 - `cnn_model.keras`: The saved trained model.
 - `README.md`: This file, explaining the project structure.
 
 ## 4. Results
-The main findings of the code can be found at the post on Medium available post linked below.
-https://medium.com/@jwei1_24619/deep-learning-image-classification-cat-vs-dog-prediction-using-cnn-9e7910a0b450.
+The main findings of the code can be found at the post on Medium linked below:
+https://medium.com/@jwei1_24619/deep-learning-image-classification-cat-vs-dog-prediction-using-cnn-9e7910a0b450
 
 ## 5. Licensing, Authors, Acknowledgements, etc.
-This project is a learning exercise in machine learning/deep learning, convolutional neural networks and image classification.
-- **Dataset Source**: Images were sourced from my teacher Farhad Abbasi Amiri(https://github.com/farhadabbasiamiri).
+This project is not only a learning exercise in convolutional neural networks and image classification, but also a final project in machine learning/deep learning. 
+- **Dataset Source**: The images were sourced from my instructor, Farhad Abbasi Amiri, who can be found at https://github.com/farhadabbasiamiri
 - **Author**: Jieyi Wei
 - **Acknowledgements**: Thanks to TensorFlow documentation and online tutorials for guidance.
 
